@@ -13,4 +13,4 @@
 
 //object
 
-//typeof
+//typeof this is object
