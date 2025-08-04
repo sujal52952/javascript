@@ -3,7 +3,7 @@
 // }
 // SayMyName() //--for the execution of the function use much use (). 
 
-//add 2 numbers
+// add 2 numbers
 // function addtwonumbers(number1,number2){
 
 // console.log(number1 + number2);
