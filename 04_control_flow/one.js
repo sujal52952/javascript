@@ -48,3 +48,14 @@
 
 
 
+// const coding=["one","two","three","four"]
+
+// coding.forEach(  (item)  =>{
+//     console.log(coding[2])
+// })
+// // console.log(coding[2]);  // Best and simplest
+
+
+
+//filter///map
+///for each
